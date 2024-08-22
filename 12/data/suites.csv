@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 22 15:57:48 GMT 2024","Thu Aug 22 15:57:48 GMT 2024","382","","template spec3","","","","test3",""
+"failed","Thu Aug 22 15:57:46 GMT 2024","Thu Aug 22 15:57:46 GMT 2024","216","","template spec","","","","test1",""
+"passed","Thu Aug 22 15:57:49 GMT 2024","Thu Aug 22 15:57:49 GMT 2024","574","","template spec5","","","","test5",""
+"passed","Thu Aug 22 15:57:47 GMT 2024","Thu Aug 22 15:57:47 GMT 2024","406","","template spec6","","","","test6",""
+"passed","Thu Aug 22 15:57:52 GMT 2024","Thu Aug 22 15:57:52 GMT 2024","317","","template spec4","","","","test4",""
+"passed","Thu Aug 22 15:57:55 GMT 2024","Thu Aug 22 15:57:55 GMT 2024","313","","template spec2","","","","test2",""
