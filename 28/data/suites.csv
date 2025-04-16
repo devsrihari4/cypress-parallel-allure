@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","236","test6","","Wed Apr 16 17:30:32 GMT 2025","passed","Wed Apr 16 17:30:33 GMT 2025","","template spec6","",""
+"","306","test3","","Wed Apr 16 17:30:20 GMT 2025","passed","Wed Apr 16 17:30:21 GMT 2025","","template spec3","",""
+"","234","test5","","Wed Apr 16 17:30:29 GMT 2025","passed","Wed Apr 16 17:30:29 GMT 2025","","template spec5","",""
+"","5","test2","","Wed Apr 16 17:30:16 GMT 2025","skipped","Wed Apr 16 17:30:16 GMT 2025","","template spec2","",""
+"","300","test4","","Wed Apr 16 17:30:24 GMT 2025","passed","Wed Apr 16 17:30:25 GMT 2025","","template spec4","",""
+"","237","test1","","Wed Apr 16 17:30:14 GMT 2025","failed","Wed Apr 16 17:30:15 GMT 2025","","template spec","",""
